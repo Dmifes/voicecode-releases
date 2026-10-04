@@ -1,1 +1,1 @@
-{"version":"0.0.6","url":"https://github.com/Dmifes/voicecode-releases/releases/download/v0.0.6/VoiceCode-mobile.apk","notes":"Talk: tap the microphone, say what to do; the computer's brain answers aloud. Language toggle EN/RU/UK.","published":"2026-10-04T07:30:02.867Z"}
+{"version":"0.0.7","url":"https://github.com/Dmifes/voicecode-releases/releases/download/v0.0.7/VoiceCode-mobile.apk","notes":"Speech recognition fixed: the phrase is taken from the recognizer's events after the end of speech.","published":"2026-10-04T07:35:37.812Z"}
