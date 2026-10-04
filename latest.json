@@ -1,1 +1,1 @@
-{"version":"0.0.17","url":"https://github.com/Dmifes/voicecode-releases/releases/download/v0.0.17/VoiceCode-mobile.apk","notes":"Settings screen: wake word on/off and its words, the language I listen in, interruption by voice, sign out, a manual update check.","published":"2026-10-04T10:36:22.510Z"}
+{"version":"0.0.18","url":"https://github.com/Dmifes/voicecode-releases/releases/download/v0.0.18/VoiceCode-mobile.apk","notes":"The account's tokens are stored encrypted with a key in the phone's Keystore.","published":"2026-10-04T10:40:21.726Z"}
