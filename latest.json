@@ -1,1 +1,1 @@
-{"version":"0.0.71","url":"https://github.com/Dmifes/voicecode-releases/releases/download/v0.0.71/Vibix-mobile.apk","notes":"The phone and the computer share one account client, one sign-in and one log format (#194)","published":"2026-10-11T09:07:25.348Z"}
+{"version":"0.0.72","url":"https://github.com/Dmifes/voicecode-releases/releases/download/v0.0.72/Vibix-mobile.apk","notes":"Phone and computer share the conversation rules: one silence rule, the talk modes, a goodbye ends the conversation when the assistant hears it (#194)","published":"2026-10-11T12:43:29.774Z"}
